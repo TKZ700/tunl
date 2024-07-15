@@ -15,8 +15,8 @@ password = "test"
 
 [outbound]
 addresses = ["relay1.bepass.org"]
-port = 6666
-protocol = "relay_v1"
+port = 6667
+protocol = "relay_v2"
 match = [
     "173.245.48.0/20",
     "103.21.244.0/22",
